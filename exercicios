@@ -1,0 +1,5 @@
+<?php
+$reais= readline("digite um valor em reais:R$");
+$dolar= $reais/5.20;
+echo "o valor $reais em dolar é:US$ $dolar"
+?>
